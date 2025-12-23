@@ -24,4 +24,4 @@ Designed and implemented an end-to-end SQL-based data warehouse using the Brazil
 Public Brazilian E-Commerce Dataset (Olist)
 
 ## Author
-Sparshika Ajmaan Dinesh Kumar
+Prokshith Purushothamma
